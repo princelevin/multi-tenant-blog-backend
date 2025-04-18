@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "princelevin",
+    "password": null,
+    "database": "multi_tenant_blog",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "princelevin",
+    "password": null,
+    "database": "multi_tenant_blog_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "princelevin",
+    "password": null,
+    "database": "multi_tenant_blog_prod",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
